@@ -10,7 +10,7 @@ package com.training;
  * @since 1.0
  */
 public class IsUnique {
-    private static final int TOTAL_CHARS_ENGLISH = 28;
+    private static final int TOTAL_CHARS_ENGLISH = 26;
     private static final int FIRST_LOWER_CHAR_ENGLISH = 97;
     private static final int FIRST_UPPER_CHAR_ENGLISH = 65;
 
